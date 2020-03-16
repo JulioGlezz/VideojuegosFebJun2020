@@ -4,8 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemigo
-  - balitaEnemiga
+  - prueba
+  - BalaJugador
+  - Jugador
+  - Score
+  - Alien
+  - BalaEnemigo
   layers:
   - Default
   - TransparentFX
